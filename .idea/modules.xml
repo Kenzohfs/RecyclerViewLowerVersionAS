@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/RecyclerViewLowerVersionAS.iml" filepath="$PROJECT_DIR$/.idea/modules/RecyclerViewLowerVersionAS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RecyclerViewLowerVersionAS.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RecyclerViewLowerVersionAS.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RecyclerViewLowerVersionAS.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RecyclerViewLowerVersionAS.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RecyclerViewLowerVersionAS.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RecyclerViewLowerVersionAS.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RecyclerViewLowerVersionAS.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RecyclerViewLowerVersionAS.app.unitTest.iml" />
     </modules>
   </component>
 </project>
